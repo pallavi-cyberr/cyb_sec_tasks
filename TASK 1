@@ -1,0 +1,11 @@
+Starting Nmap 7.97 ( https://nmap.org ) at 2025-09-22 21:48 +0530
+Nmap scan report for 192.168.56.1
+Host is up (0.00013s latency).
+Not shown: 996 closed tcp ports (reset)
+PORT     STATE SERVICE
+135/tcp  open  msrpc
+139/tcp  open  netbios-ssn
+445/tcp  open  microsoft-ds
+3306/tcp open  mysql
+
+Nmap done: 256 IP addresses (1 host up) scanned in 63.68 seconds
